@@ -4,6 +4,9 @@ These headers are taken directly from MinGW-w64 found at:</br>
 https://www.mingw-w64.org/</br>
 https://sourceforge.net/p/mingw-w64/mingw-w64/ci/master/tree/mingw-w64-headers/
 
+The `d3d12.h` header was generated from the description found in the
+[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) project.
+
 ## License
 
 The license for these headers is LGPL v2.1.</br>
